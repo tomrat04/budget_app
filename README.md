@@ -1,4 +1,4 @@
-# budget_app
+# budget_app v.0.5.0
 
 You can download app below:
 
